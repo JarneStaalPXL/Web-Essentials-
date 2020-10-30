@@ -1,0 +1,126 @@
+
+/*Body*/
+body {
+    font-family: "Roboto", serif;
+    background-color: #4c5868;
+}
+/*Title*/
+#mymusic {
+    color: #d1b290;
+}
+/*Styling for General Headings*/
+.list {
+    color:white;
+}
+/*Styling for <a tags*/
+.list a {
+    color:white;
+}
+/*Hover for lists*/
+.list a:hover {
+    color: #d1b290;
+    font-size: 20px;
+}
+/*Styling for buttons*/
+button {
+    color: white;
+    background-color: transparent;
+    margin-left: 2%;
+    border-radius: 5px;
+    border: 2px solid gray;
+    size: 900px;
+    font-size: 20px;
+}
+
+/* On mouse-hover */
+.btnu:hover {
+    color:#d1b290;
+    font-weight: bold;
+    text-shadow: #d1b290;
+    background-color: rgba(209, 178, 144, 0.2);
+}
+
+/*Festivals */
+
+/*Pukkelpop */
+.puk  {
+    border: 2px solid saddlebrown;
+    width: 1000px;
+    height: 100px;
+    display-inside: ruby;
+    background-color: lightskyblue;
+    font-size:20px;
+    font-family: Arial, serif;
+    margin-left: 35px;
+}
+/*Rock */
+.rock {
+    border: 2px solid saddlebrown;
+    width: 1000px;
+    height: 100px;
+    display-inside: ruby;
+    background-color: #fcdcb5;
+    font-size:20px;
+    font-family: Arial, serif;
+    margin-left: 35px;
+}
+
+/*Tomorrowland*/
+.tom {
+    border: 2px solid saddlebrown;
+    width: 1000px;
+    height: 100px;
+    display-inside: ruby;
+    background-color: #fcceff;
+    font-size:20px;
+    font-family: Arial, serif;
+    margin-left: 35px;
+}
+
+/*Graspop*/
+.gras {
+    border: 2px solid saddlebrown;
+    width: 1000px;
+    height: 100px;
+    display-inside: ruby;
+    background-color: #bef7b2;
+    font-size:20px;
+    font-family: Arial, serif;
+    margin-left: 35px;
+}
+/*Dour*/
+.dour {
+    border: 2px solid saddlebrown;
+    width: 1000px;
+    height: 100px;
+    display-inside: ruby;
+    background-color: #f9f6bf;
+    font-size:20px;
+    font-family: Arial, serif;
+    margin-left: 35px;
+}
+
+/*Offset Text in border*/
+.puk a, p {
+    display: block;
+    margin-left: 30px;
+}
+.rock a, p {
+    display: block;
+    margin-left: 30px;
+}
+
+.tom a, p {
+    display: block;
+    margin-left: 30px;
+}
+
+.gras a, p {
+    display: block;
+    margin-left: 30px;
+}
+
+.dour a, p {
+    display: block;
+    margin-left: 30px;
+}
