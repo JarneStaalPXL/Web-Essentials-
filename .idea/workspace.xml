@@ -10,97 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/School/Samenvattingen/Blok&amp;InlinElementen&amp;StructuurElementen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/CSS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/HTML knop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Hallo Wereld!.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Huisdier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Liedje.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 6/Muziek.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 6/Muziek.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 6/Profiel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 6/assets/220px-Asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 6/assets/220px-Leftfield-Leftism_(album_cover).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 6/assets/550x547.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/audia7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/badumtss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/bolcom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/deredactie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/fwmac.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/oneplus6t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/pearljam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/pxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/reddit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/sporza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/assets/stubru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/oefening7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Muziek Oefening 7/oefening7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Oefening 2/Oefening2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Oefening 2/oef2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Oefeningen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Oefeningen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/PXLRemake.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/PXLRemake.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Structuur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Valideren.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Week1koppen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/recept.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/Opdrachten/HTML &amp; CSS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/Opdrachten/Opdrachten.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/Opdrachten/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/PPT/Presentatie_html_css.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/PPT/Presentatie_week1-2.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 1/Oefening 1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 1/Oefening 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/Oefening 2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/Oefening 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/dameWit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/dameZwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/fwmac.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/hout.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/koningWit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/koningZwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/loperWit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/loperZwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/paardWit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/paardZwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/pearljam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/pionWit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/pionZwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/torenWit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/torenZwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/witte-marmer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 2/assets/zwarte-marmer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/Muziek Tabel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/Muziek.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/Profiel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/assets/220px-Asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/assets/220px-Leftfield-Leftism_(album_cover).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/assets/550x547.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 3/Muziek/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 4/Oefening4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 4/Oefening4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/Opdrachten/oefeningen_tabellen.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 3/PPT/tabellen.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 6/GIT/Git Cheat Sheet.pdf" afterDir="false" />
+    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="School Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +115,16 @@
       <workItem from="1603901709651" duration="698000" />
       <workItem from="1604043517502" duration="956000" />
       <workItem from="1604044499953" duration="211000" />
+      <workItem from="1604044736592" duration="623000" />
     </task>
+    <task id="LOCAL-00001" summary="School Initial Commit">
+      <created>1604044802278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604044802278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +140,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="School Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="School Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602567921267">
@@ -236,6 +161,10 @@
     </state>
     <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603476546044" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602337960551" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604044821533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604044821533" />
     <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1603630665588">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
