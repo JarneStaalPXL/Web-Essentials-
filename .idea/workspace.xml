@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="School Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="Added Comments">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +115,7 @@
       <workItem from="1603901709651" duration="698000" />
       <workItem from="1604043517502" duration="956000" />
       <workItem from="1604044499953" duration="211000" />
-      <workItem from="1604044736592" duration="623000" />
+      <workItem from="1604044736592" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
@@ -124,7 +124,42 @@
       <option name="project" value="LOCAL" />
       <updated>1604044802278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added gitignore">
+      <created>1604045377576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604045377576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test paragraph removed">
+      <created>1604045595206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604045595206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Heading Test Added">
+      <created>1604046101996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604046101996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Heading Test Removed">
+      <created>1604046231169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604046231169</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Comments">
+      <created>1604047217598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604047217598</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +179,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="School Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="School Initial Commit" />
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value="Test paragraph removed" />
+    <MESSAGE value="Heading Test Added" />
+    <MESSAGE value="Heading Test Removed" />
+    <MESSAGE value="Added Comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Comments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602567921267">
@@ -161,10 +201,10 @@
     </state>
     <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603476546044" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602337960551" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604044821533">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604045520176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604044821533" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604045520176" />
     <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1603630665588">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
