@@ -26,14 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV/CV.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV/CV.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV/assets/_DSC0096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV/assets/bridge-1831929-wallhere.com.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +147,7 @@
       <workItem from="1604991499232" duration="8437000" />
       <workItem from="1605001572070" duration="771000" />
       <workItem from="1605071226808" duration="4203000" />
+      <workItem from="1605115689952" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
