@@ -48,20 +48,23 @@ nav {
 }
 
 /* Pictures */
+#banner-section{
+    height: 65vh;
+}
 #imga {
-    position:absolute; top: 0; left: 0; z-index: -50;
-    max-width: 100%;
-    height: auto;
+    position: relative;
+    top: 0; left: 0; z-index: -50;
+    width: 100%;
+    height: 100%;
+
 }
 
 #imgb {
-    left: 50%;
-    margin-top: -320px;
-    margin-left: -125px;
-    position: absolute;
-    width: 250px;
+    left: 43%;
+    top: -23%;
+    position: relative;
+    width: 14%;
     z-index: -2;
-    max-width: 100%;
     height: auto;
 
     border:  black 23px;
@@ -72,11 +75,59 @@ nav {
     text-align: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
-    margin-top: 1000px;
+    margin-top: 16vh;
     font-size: 20px;
 }
-.contact {
 
+.tel {
+    text-align: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: 	#addbff;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    margin-left: 43vw;
+    width: 300px;
+    box-shadow: -4px -4px #000000;
+
+}
+
+.email {
+    text-align: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    background-color: #9dd1ff;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    margin-left: 43vw;
+    margin-top: 10px;
+    width: 300px;
+    box-shadow: 5px 5px #000000;
+}
+
+.tel:hover {
+    height: 50px; /* [1.1] Set it as per your need */
+    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+    transition: transform .5s ease;
+    transform: scale(1.2);
+}
+
+.email:hover {
+    height: 50px; /* [1.1] Set it as per your need */
+    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+    transition: transform .5s ease;
+    transform: scale(1.2);
+
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
 }
 
 
