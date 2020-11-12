@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 *{
 
     box-sizing: border-box;
@@ -79,19 +83,24 @@ nav {
     font-size: 20px;
 }
 
+.contact {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 27vh;
+    margin-left: 23vh;
+    font-size: 20px;
+}
 .tel {
     text-align: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
-    margin-top: 50px;
+    margin-top: 3vw;
     font-size: 20px;
-    background-color: 	#addbff;
+    background-color: 	#ebebeb;
     border: none;
     padding: 15px 32px;
-    display: inline-block;
-    margin-left: 43vw;
+    margin-left: 8vw;
     width: 300px;
-    box-shadow: -4px -4px #000000;
 
 }
 
@@ -100,14 +109,12 @@ nav {
     align-items: center;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
-    background-color: #9dd1ff;
+    background-color: #c4c4c4;
     border: none;
     padding: 15px 32px;
-    display: inline-block;
-    margin-left: 43vw;
-    margin-top: 10px;
+    margin-left: 8vw;
+    margin-top: 2vw;
     width: 300px;
-    box-shadow: 5px 5px #000000;
 }
 
 .tel:hover {
@@ -130,5 +137,14 @@ a, a:hover, a:focus, a:active {
     color: inherit;
 }
 
+.heigth {
+    height: 500vw;
+}
 
+.map {
+    margin-top: -20%;
+    margin-left: 41vw;
+    align-items: center;
+    border:0;
+}
 
