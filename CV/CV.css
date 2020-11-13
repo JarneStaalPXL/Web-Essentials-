@@ -80,57 +80,63 @@ nav {
     align-items: center;
     font-family: 'Poppins', sans-serif;
     margin-top: 16vh;
-    font-size: 20px;
+    font-size: 27px;
 }
 
 .contact {
     position: relative;
     font-family: 'Poppins', sans-serif;
     margin-top: 27vh;
-    margin-left: 23vh;
+    margin-left: 30vh;
     font-size: 20px;
 }
-.tel {
+/*Call button*/
+.tel  {
     text-align: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
     margin-top: 3vw;
-    font-size: 20px;
+    font-size: 27px;
     background-color: 	#ebebeb;
     border: none;
     padding: 15px 32px;
-    margin-left: 8vw;
+    margin-left: 12vw;
     width: 300px;
 
 }
+/*Text under call and email button*/
+.teldetail {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 12vw;
+    margin-top: -1rem;
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+}
+.emaildetail {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 11vw;
+    margin-top: -1rem;
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+}
+
 
 .email {
     text-align: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 27px;
     background-color: #c4c4c4;
     border: none;
     padding: 15px 32px;
-    margin-left: 8vw;
+    margin-left: 12vw;
     margin-top: 2vw;
     width: 300px;
 }
 
-.tel:hover {
-    height: 50px; /* [1.1] Set it as per your need */
-    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
-    transition: transform .5s ease;
-    transform: scale(1.2);
-}
 
-.email:hover {
-    height: 50px; /* [1.1] Set it as per your need */
-    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
-    transition: transform .5s ease;
-    transform: scale(1.2);
-
-}
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;
@@ -142,9 +148,18 @@ a, a:hover, a:focus, a:active {
 }
 
 .map {
-    margin-top: -20%;
+    margin-top: -26%;
     margin-left: 41vw;
     align-items: center;
-    border:0;
+    border:groove black 5px;
+    box-shadow: 0px 3px 27px 0px #404040;
+}
+
+
+.tel a:hover span {
+    display:none
+}
+.tel a:hover:before {
+    content:"Bel mij"
 }
 
