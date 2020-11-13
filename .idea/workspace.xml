@@ -29,7 +29,6 @@
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV/CV.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +156,7 @@
       <workItem from="1605187153193" duration="3110000" />
       <workItem from="1605194456371" duration="10708000" />
       <workItem from="1605247959145" duration="3403000" />
+      <workItem from="1605292667134" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
