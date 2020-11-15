@@ -89,7 +89,7 @@ nav {
     height: auto;
 
     border:  black 23px;
-    border-radius: 150px;
+    border-radius: 180px;
 }
 
 .personalia {
@@ -97,10 +97,6 @@ nav {
     font-family: 'Poppins', sans-serif;
     margin-top: 16vh;
     font-size: 18px;
-}
-@keyframes personalia {
-    from {top: 0px;}
-    to {top: 200px; background-color: blue;}
 }
 
 .personalia p {
@@ -113,16 +109,17 @@ nav {
 
 #gbnt {
     margin-left: 50%;
-    margin-top: -10%
+    margin-top: -9%;
 }
 
 
 .interests {
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    margin-top: -16vh;
+    margin-top: -15vh;
     margin-left: -50%;
     font-size: 17px;
+    display: block;
 }
 
 .interests p {
@@ -137,6 +134,8 @@ nav {
     margin-top: 13%;
     font-size: 23px;
     background-color: #c4e5ff;
+    box-shadow: -1px 1px 24px 2px;
+    display: block;
 }
 
 
