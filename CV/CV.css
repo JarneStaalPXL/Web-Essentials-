@@ -64,6 +64,11 @@ nav {
     top: 50vw;
 }
 
+#personality {
+    position: absolute;
+    top: 95vw;
+}
+
 /* Pictures */
 #banner-section{
     height: 58vh;
@@ -97,15 +102,6 @@ nav {
     box-shadow: none;
 }
 
-/*
-img:hover{
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition:.5s;
-    box-shadow: 10px 10px 5px #888888;
-}*/
 
 .personalia {
     text-align: center;
@@ -254,11 +250,25 @@ table {
 .personality {
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    margin-top: 1vw;
+    margin-top: 15vw;
 }
 
 .personality h1 {
     font-size: 2em;
+}
+
+.personality img {
+    max-width: 800px;
+    max-height: 400px;
+    margin-top: 6vw;
+}
+
+.personality p {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 2vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
 }
 
 

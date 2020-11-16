@@ -27,6 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
+      <change afterPath="$PROJECT_DIR$/CV/assets/quote.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV/CV.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.html" afterDir="false" />
@@ -164,7 +165,7 @@
       <workItem from="1605419285301" duration="8478000" />
       <workItem from="1605431218117" duration="6541000" />
       <workItem from="1605438525276" duration="18768000" />
-      <workItem from="1605512817204" duration="6010000" />
+      <workItem from="1605512817204" duration="11063000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
