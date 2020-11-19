@@ -63,6 +63,10 @@ nav {
     position: absolute;
     top: 50vw;
 }
+#contact {
+    position: absolute;
+    top: 144vw;
+}
 
 #personality {
     position: absolute;
@@ -276,10 +280,18 @@ table {
 .contact {
     position: relative;
     font-family: 'Poppins', sans-serif;
-    margin-top: 59vh;
+    margin-top: -58vh;
     margin-left: 30vh;
     font-size: 20px;
 }
+
+.contactbanner {
+    height: 38vw;
+    max-width: 100%;
+    background-color: #8080802b;
+    margin-top: 8vw;
+}
+
 /*Call button*/
 .tel  {
     text-align: center;
@@ -294,6 +306,20 @@ table {
     width: 300px;
 
 }
+/*Email button*/
+.email {
+    text-align: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    background-color: #c4c4c4;
+    border: none;
+    padding: 15px 32px;
+    margin-left: 12vw;
+    margin-top: 2vw;
+    width: 300px;
+}
+
 /*Text under call and email button*/
 .teldetail {
     font-family: 'Poppins', sans-serif;
@@ -313,18 +339,6 @@ table {
 }
 
 
-.email {
-    text-align: center;
-    align-items: center;
-    font-family: 'Poppins', sans-serif;
-    font-size: 27px;
-    background-color: #c4c4c4;
-    border: none;
-    padding: 15px 32px;
-    margin-left: 12vw;
-    margin-top: 2vw;
-    width: 300px;
-}
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;
