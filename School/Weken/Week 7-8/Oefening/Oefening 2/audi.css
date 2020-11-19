@@ -3,6 +3,8 @@
 }
 .container img {
     border: solid black 2px;
+    margin-left: 1vw;
+    margin-bottom: 0vw;
 }
 
 .container-item {
@@ -10,25 +12,29 @@
     color: white;
     margin-left: 3vw;
     flex-grow: 1;
+    height: 12vw;
     background-color: black;
 }
 
 .container-item h1 {
     margin-left: 3vw;
-    font-size: 40px;
     margin-top: 3vw;
+    font-size: 25px;
 }
 
 .container-item p {
     margin-left: 3vw;
     margin-top: 1vw;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .container-item2 {
-    margin-left: 3vw;
-    font-size: 25px;
+    font-size: 15px;
     margin-top: 3vw;
+    color: white;
+    background-color: black;
+    flex-grow: 2;
+    margin-left: 1vw;
 }
 
 
