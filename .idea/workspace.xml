@@ -27,10 +27,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/asiwyfa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/audia7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/audia7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/badumtss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/badumtss.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/badumtss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/bolcom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/buzzer.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/buzzer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/deredactie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/doorbell.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/doorbell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/fart.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/fart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/fwmac.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/interior1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/interior2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/oneplus6t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/pearljam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/pxl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/reddit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/sporza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/stubru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/oefening1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/oefening1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/audi.css" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/audi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/audi.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/audi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +198,7 @@
       <workItem from="1605800852257" duration="1202000" />
       <workItem from="1605861108387" duration="2103000" />
       <workItem from="1605864469247" duration="599000" />
+      <workItem from="1606142424790" duration="2498000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
