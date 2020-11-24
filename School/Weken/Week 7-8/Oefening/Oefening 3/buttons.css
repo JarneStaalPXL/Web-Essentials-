@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn button{
+    display: inline-block;
+    background: green;
+    flex-basis: 44%;
+    flex-grow: 1;
+    width: 10vw;
+    height: 10vw;
+}
