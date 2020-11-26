@@ -3,11 +3,13 @@
     flex-wrap: wrap;
 }
 
-.btn button{
-    display: inline-block;
+button{
     background: green;
-    flex-basis: 44%;
-    flex-grow: 1;
     width: 10vw;
     height: 10vw;
+    margin-right: -90%;
+}
+
+test {
+
 }
