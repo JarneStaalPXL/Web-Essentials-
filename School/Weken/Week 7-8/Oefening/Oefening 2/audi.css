@@ -32,17 +32,6 @@ body {
     font-size: 20px;
 }
 
-.container-item2 {
-    font-size: 15px;
-    color: white;
-    background-color: black;
-    flex-grow: 1;
-    margin-left: 1vw;
-    margin-right: 28vw;
-    margin-top: 1vw;
-    height: 48vw;
-    width: 18vw;
-}
 
 .container-item2 h1, p{
     margin-left: 2vw;
