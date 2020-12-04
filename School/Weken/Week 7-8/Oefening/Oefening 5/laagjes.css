@@ -6,6 +6,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+div {
+
+}
+
 #first {
     width: 14vw;
     height: 14vw;
@@ -15,7 +19,6 @@
     margin-top: 8vw;
     z-index: 5;
     background-color: green;
-    border-radius: 1vw;
     border-radius: 1vw;
     box-shadow: 4px 6px 27px 12px;
 }
@@ -29,7 +32,6 @@
     margin-top: 10vw;
     z-index: 4;
     background-color: green;
-    border-radius: 1vw;
     border-radius: 1vw;
     box-shadow: 4px 6px 27px 12px;
     opacity: 75%;
@@ -45,7 +47,6 @@
     z-index: 3;
     background-color: green;
     border-radius: 1vw;
-    border-radius: 1vw;
     box-shadow: 4px 6px 27px 12px;
     opacity: 50%;
 }
@@ -60,7 +61,6 @@
     z-index: 2;
     background-color: green;
     border-radius: 1vw;
-    border-radius: 1vw;
     box-shadow: 4px 6px 27px 12px;
     opacity: 25%;
 }
@@ -74,7 +74,6 @@
     margin-top: 16vw;
     z-index: 1;
     background-color: green;
-    border-radius: 1vw;
     border-radius: 1vw;
     box-shadow: 4px 6px 27px 12px;
     opacity: 10%;

@@ -27,8 +27,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/audia7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/badumtss.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/badumtss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/buzzer.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/buzzer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/doorbell.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/doorbell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/fart.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/fart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/interior1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/interior2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/mnm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/mustang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/mustang_auto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/nostalgie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/q-music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/radio1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/radio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/road.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/smartphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/stubru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/emulator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/screen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/smartphone.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 5/laagjes.css" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 5/laagjes.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +212,7 @@
       <workItem from="1606660783263" duration="4982000" />
       <workItem from="1606898747055" duration="518000" />
       <workItem from="1606899397928" duration="2875000" />
+      <workItem from="1607067824101" duration="6420000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
@@ -290,41 +317,5 @@
     <MESSAGE value="Added Comments" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="714" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602567921267">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="714" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602567921267" />
-    <state x="592" y="208" key="FileChooserDialogImpl" timestamp="1602331547687">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="592" y="208" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602331547687" />
-    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601189191863" />
-    <state x="369" y="115" key="SettingsEditor" timestamp="1603476546044">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603476546044" />
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602337960551" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604045520176">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604045520176" />
-    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1603630665588">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603630665588" />
-    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604044605769">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604044605769" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1604995596142">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604995596142" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605421148059">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605421148059" />
   </component>
 </project>
