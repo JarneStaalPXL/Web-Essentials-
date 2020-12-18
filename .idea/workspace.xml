@@ -27,17 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/Caro/assets/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Caro/sounds/Christmas.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Caro/sounds/Christmas.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/tryout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/assets/cookie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/assets/cookies.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/caviastart.css" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/caviastart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/comicstart.css" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/comicstart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/comicstart.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/comicstart.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +200,7 @@
       <workItem from="1608217756205" duration="83000" />
       <workItem from="1608278127473" duration="217000" />
       <workItem from="1608278644133" duration="733000" />
-      <workItem from="1608279402014" duration="2290000" />
+      <workItem from="1608279402014" duration="4599000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>

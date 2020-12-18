@@ -83,3 +83,48 @@ footer {
     margin: 25px 0;
     text-align: center;
 }
+
+#container {
+    margin: auto;
+    width: 90%;
+}
+figure img {
+    width: 100%;
+}
+
+
+@media screen and (min-width: 1201px) {
+    ul {
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+    ul li {
+        min-width: 12.5%;
+    }
+    aside {
+        float: right;
+    }
+    article {
+        float: left;
+    }
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+}
+@media screen and (min-width: 1200px)  {
+    #container {
+
+        width: 100%;
+    }
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    ul li {
+        width: 25%;
+    }
+
+}
