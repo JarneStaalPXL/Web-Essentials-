@@ -27,180 +27,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/audia7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/badumtss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/bolcom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/deredactie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/fwmac.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/oneplus6t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/pearljam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/pxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/reddit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/sporza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/assets/stubru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/oefening1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 1/oefening1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/audia7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/badumtss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/bolcom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/deredactie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/fwmac.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/oneplus6t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/pearljam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/pxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/reddit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/sporza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/assets/stubru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/audi.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 2/audi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 3/buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 3/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 4/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 4/oefening4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 4/oefening4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 5/laagjes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 5/laagjes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/mnm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/mustang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/mustang_auto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/nostalgie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/q-music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/radio1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/radio2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/road.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/smartphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/assets/stubru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/emulator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/screen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 1/Oefening 6/smartphone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Caro/assets/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Caro/sounds/Christmas.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Caro/sounds/Christmas.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/tryout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/assets/cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/assets/cookies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/asiwyfa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/audia7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/audia7_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/badumtss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/badumtss.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/badumtss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/bolcom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/buzzer.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/buzzer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/deredactie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/doorbell.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/doorbell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/fart.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/fart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/fwmac.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/interior1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/interior2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/oneplus6t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/pearljam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/pxl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/sporza.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/assets/stubru.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/oefening1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 1/oefening1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/asiwyfa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/audia7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/audia7_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/badumtss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/badumtss.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/badumtss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/bolcom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/buzzer.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/buzzer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/deredactie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/doorbell.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/doorbell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/fart.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/fart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/fwmac.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/interior1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/interior2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/oneplus6t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/pearljam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/pxl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/sporza.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/assets/stubru.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/audi.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 2/audi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 3/buttons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 3/buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 4/assets/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 4/oefening4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 4/oefening4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 5/laagjes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 5/laagjes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/audia7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/badumtss.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/badumtss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/buzzer.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/buzzer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/doorbell.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/doorbell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/fart.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/fart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/interior1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/interior2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/mnm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/mustang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/mustang_auto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/nostalgie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/q-music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/radio1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/radio2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/road.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/smartphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/assets/stubru.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/emulator.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/screen.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Oefening/Oefening 6/smartphone.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/caviastart.css" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 7-8/Deel 2/Opdrachten/caviastart.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,6 +68,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -361,6 +199,16 @@
       <workItem from="1607067824101" duration="6420000" />
       <workItem from="1607414601722" duration="508000" />
       <workItem from="1607415153047" duration="704000" />
+      <workItem from="1607843766850" duration="563000" />
+      <workItem from="1607844699770" duration="5610000" />
+      <workItem from="1607868941661" duration="3774000" />
+      <workItem from="1607925755444" duration="1244000" />
+      <workItem from="1607950800419" duration="2111000" />
+      <workItem from="1608107011240" duration="2521000" />
+      <workItem from="1608217756205" duration="83000" />
+      <workItem from="1608278127473" duration="217000" />
+      <workItem from="1608278644133" duration="733000" />
+      <workItem from="1608279402014" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>

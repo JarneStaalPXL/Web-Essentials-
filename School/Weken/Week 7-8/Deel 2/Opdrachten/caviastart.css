@@ -31,3 +31,37 @@ footer {
     background-color: #ff0000;
     color: white;
 }
+figure img {
+    width: 100%;
+}
+
+@media screen and (max-width: 979px) {
+    .container {
+        width: 100%;
+        border: none;
+        padding: 0;
+    }
+    figure {
+        width: 15%;
+        border: none;
+        padding: 20px;
+    }
+    main {
+        width: 80%;
+    }
+    body {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width:  699px){
+    footer{
+        display: none;
+    }
+    figure {
+        margin: 25px auto auto;
+        float: none;
+        width: 25%;
+        padding: 0;
+    }
+}
