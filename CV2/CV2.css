@@ -32,6 +32,11 @@ nav {
     display: flex;
     width: 100%;
 }
+
+.nav-links a:hover {
+    color: #cfeaff;
+}
+
 .nav-links a{
     color: white;
     text-decoration: none;
@@ -111,13 +116,13 @@ nav {
 
 .container2 {
     display: flex;
-    margin-top: 7em;
+    margin-top: 9em;
     margin-left: -1em;
     margin-right: -32em;
 }
 
 .container-item {
-    margin-left: 25em;
+    margin-left: 23em;
 }
 
 .container-item2 {
@@ -144,19 +149,137 @@ nav {
 
 
 .interests {
-    font-size: 13px;
+    font-size: 10px;
+    margin-left: 1em;
+}
+
+.interests h1 {
+    text-align: center;
+    margin-left: 2em;
 }
 
 .interests p {
     margin-left: 2em;
     margin-top: -1em;
+    text-align: center;
+    font-size: 16px;
 }
+
+.eduworkbanner {
+    height: 38vw;
+    max-width: 100%;
+    background-color: #8080802b;
+    margin-top: 8vw;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    margin-top: -28em;
+}
+
+.container-item3 {
+    margin-left: 3em;
+}
+
+.container-item4 {
+    margin-top: -29em;
+    margin-left: 16em;
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 9em;
+    margin-left: -2em;
+}
+
+.container4 img {
+    display: flex;
+    justify-content: center;
+    /* max-width: max-content; */
+    max-height: 489px;
+    margin-left: 3em;
+}
+
+#aimg {
+    width: 369px;
+}
+
+
+.education {
+    text-align: center;
+    width: 0em;
+    height: 20em;
+    min-width: 10em;
+    font-size: 16px;
+    background-color: #dceffe;
+    box-shadow: 0px 1px 6px 6px;
+}
+
+.education hr {
+    border: 4px solid black;
+    border-radius: 5px;
+    opacity: 0.5;
+    margin-top: 0vw;
+}
+
+
+.education p {
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.education h1 {
+    margin: 0vw;
+    background-color: #93b1c9;
+}
+.education h3 {
+    font-size: 16px;
+}
+
+.workexp {
+    text-align: center;
+    font-size: 16px;
+    height: 29em;
+    margin-left: 8em;
+    margin-top: 5em;
+    max-width: 14em;
+    max-height: 27em;
+    /* width: 0em; */
+    /* min-width: 30vh; */
+    background-color: #dceffe;
+    box-shadow: 0px 1px 6px 6px;
+
+}
+
+.workexp h1 {
+    margin: 0em;
+    background-color: #93b1c9;
+}
+.workexp hr {
+    border: 4px solid black;
+    border-radius: 5px;
+    opacity: 0.5;
+    margin-top: 0em;
+}
+
+.workexp p {
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+
 
 
 @media only screen and (max-width: 480px) {
 .title h4 {
    display: none;
 }
+
+
 
 .nav-links a {
     color: white;
@@ -175,5 +298,37 @@ nav {
     left: 36%;
     top: -33%;
     width: 29%;
+}
+
+.container {
+
+}
+
+.container2 {
+    margin-top: 0em;
+}
+
+.container4 {
+width: 1px;
+height: 3000px;
+}
+
+.interests {
+    margin-left: -15em;
+    margin-right: -17em;
+    margin-top: 16em;
+}
+
+.personalia {
+    margin-top: 2em;
+}
+
+.container-item {
+
+}
+
+#gbnt {
+    margin-left: 3em;
+
 }
 }
