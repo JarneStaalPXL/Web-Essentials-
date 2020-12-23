@@ -72,7 +72,7 @@ nav {
 
 #personality {
     position: absolute;
-    top: 95vw;
+    top: 180vw;
 }
 
 /* Pictures */
@@ -111,7 +111,7 @@ nav {
 .container {
     display: flex;
     justify-content: center;
-    margin-top: 4em;
+    margin-top: 8em;
 }
 
 .container2 {
@@ -210,8 +210,8 @@ nav {
     max-width: 100%;
     height: 100%;
     justify-content: center;
-    margin-bottom: 15em;
-    margin-top: 15em;
+    margin-bottom: -5em;
+    margin-top: 7em;
     background-color: lightgray;
     padding-top: 4em;
 
@@ -317,7 +317,43 @@ table {
     margin-top: 8vw;
 }
 
+/*Properties for personality*/
+.personality {
+    text-align: center;
+    margin-top: 21em;
+}
+
+.personality h1 {
+    font-size: 26px;
+}
+
+.personality img {
+    max-width: 800px;
+    max-height: 400px;
+    margin-top: 6vw;
+}
+
+.personality p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
 @media only screen and (max-width: 480px) {
+
+    #profile {
+        top: -25em;
+    }
+
+    #edu {
+        top: 50em;
+    }
+
+    #personality {
+        top: 190em;
+    }
+
     .title h4 {
        display: none;
     }
@@ -411,7 +447,13 @@ table {
       margin-top: 4em;
     }
 
+    .personality {
+        margin-top: 11em;
+    }
 
-
-
+    .personality img {
+        max-width: 338px;
+        max-height: 400px;
+        margin-top: 1em;
+    }
 }
