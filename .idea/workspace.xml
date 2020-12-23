@@ -27,7 +27,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
+      <change afterPath="$PROJECT_DIR$/CV2Yeet.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/CV2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/CV2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/bridge-1831929-wallhere.com.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/opleiding.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/profilepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/school.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/wallpaper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/assets/werkervaring.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Yeet/CV2/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV/CV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV2.rar" beforeDir="false" afterPath="$PROJECT_DIR$/CV2.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV2/CV2.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV2/CV2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV2/CV2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV2/CV2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV2/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/CV2/debug.log" afterDir="false" />
@@ -208,7 +223,8 @@
       <workItem from="1608544092536" duration="5190000" />
       <workItem from="1608559703147" duration="8808000" />
       <workItem from="1608642204498" duration="14797000" />
-      <workItem from="1608709316909" duration="4562000" />
+      <workItem from="1608709316909" duration="11326000" />
+      <workItem from="1608728381448" duration="4410000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
