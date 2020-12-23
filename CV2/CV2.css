@@ -275,60 +275,80 @@ nav {
 
 
 @media only screen and (max-width: 480px) {
-.title h4 {
-   display: none;
-}
+    .title h4 {
+       display: none;
+    }
 
 
 
-.nav-links a {
-    color: white;
-    text-decoration: none;
-    letter-spacing: 3px;
-    font-weight: bold;
-    font-size: 9px;
-    margin-left: -1em;
-}
+    .nav-links a {
+        font-size: 11px;
+    }
 
-#banner-section {
-    height: 14em;
-}
+    #banner-section {
+        height: 14em;
+    }
 
-.imgb {
-    left: 36%;
-    top: -33%;
-    width: 29%;
-}
+    .imgb {
+        left: 36%;
+        top: -33%;
+        width: 29%;
+    }
 
-.container {
+    .container {
 
-}
+    }
 
-.container2 {
-    margin-top: 0em;
-}
+    .container2 {
+        margin-top: 0em;
+    }
 
-.container4 {
-width: 1px;
-height: 3000px;
-}
+    .container4 {
+        width: 1px;
+        height: 3000px;
+    }
 
-.interests {
-    margin-left: -15em;
-    margin-right: -17em;
-    margin-top: 16em;
-}
+    .interests {
+        margin-left: -15em;
+        margin-right: -17em;
+        margin-top: 33em;
+    }
 
-.personalia {
-    margin-top: 2em;
-}
+    .personalia {
+        margin-top: 2em;
+    }
 
-.container-item {
+    .personalia h1 {
+        margin-left: 8em;
+    }
 
-}
+    .personalia p {
+        margin-left: 10em;
+    }
 
-#gbnt {
-    margin-left: 3em;
+    .container-item {
+        margin-left: 23em;
+    }
 
-}
+    #gbnt {
+        margin-left: -13em;
+        margin-top: 14em;
+    }
+
+
+    .interests h1 {
+        margin-left: 12em;
+        margin-top: -4em;
+    }
+
+
+    .interests p {
+        margin-left: 11em;
+    }
+
+
+
+
+
+
 }
