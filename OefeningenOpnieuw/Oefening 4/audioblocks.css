@@ -1,0 +1,32 @@
+#title {
+    text-align: center;
+}
+
+.border1 {
+    border: solid 2px black;
+    margin: 10px;
+    width: 13em;
+    height: 13em;
+    border-radius: 1em;
+
+}
+
+.border1:hover {
+    background: red;
+}
+
+.border1 img {
+    width: 145px;
+    margin-left: 2em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+audio {
+    width: 13em;
+}

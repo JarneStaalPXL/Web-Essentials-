@@ -21,6 +21,7 @@ nav {
     z-index: 3;
 }
 
+
 .title {
     color: white;
     text-transform: uppercase;
@@ -44,18 +45,21 @@ nav {
     font-weight: bold;
     margin-right: 3em ;
 }
+
 .nav-links li {
     list-style: none;
 }
+
 .burger {
     display: none;
 }
+
 .burger div{
     background-color: #b8b8b8;
     margin: 5em;
 }
 
-/* Position scrol to element when nav button clicked */
+/* Position scroll to element when nav button clicked */
 #profile {
     position: absolute;
     top: 5vw;
@@ -63,7 +67,7 @@ nav {
 
 #edu {
     position: absolute;
-    top: 50vw;
+    top: 52em;
 }
 #contact {
     position: absolute;
@@ -72,7 +76,7 @@ nav {
 
 #personality {
     position: absolute;
-    top: 180vw;
+    top: 101em;
 }
 
 /* Pictures */
@@ -99,6 +103,7 @@ nav {
     border-radius: 180px;
 }
 
+
 /* hover over pic reveals shadow*/
 .imgb:hover {
     box-shadow: 5px 5px 5px 5px black;
@@ -106,6 +111,7 @@ nav {
 .imgb:active:hover {
     border: solid black 5px;
     box-shadow: none;
+
 }
 
 .container {
@@ -340,6 +346,127 @@ table {
     margin-right: 4vw;
 }
 
+/*Properties for contact info*/
+.contact {
+    font-size: 16px;
+    margin-top: 8em;
+    text-align: center;
+}
+
+/*Call button*/
+.tel  {
+    text-align: center;
+    font-size: 16px;
+    background-color: #ebebeb;
+    padding: 15px 32px;
+    margin-left: -1em;
+    width: 11em;
+
+}
+
+/*Email button*/
+.email {
+    text-align: center;
+    font-size: 16px;
+    background-color: #c4c4c4;
+    border: none;
+    padding: 15px 32px;
+    width: 11em;
+}
+
+/*Text under call and email button*/
+.teldetail {
+    width: 14em;
+    font-size: 16px;
+    text-align: center;
+}
+.emaildetail {
+    width: 15em;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tel a:hover span {
+    display:none
+}
+.tel a:hover:before {
+    content:"Bel mij"
+}
+
+.email a:hover span {
+    display:none
+}
+
+.email a:hover:before {
+    content:"Mail mij"
+}
+
+.container6 {
+    display: flex;
+    justify-content: center;
+}
+
+.container7 {
+    display: flex;
+
+    height: 5em;
+    border: #404040;
+    background-color: #404040;
+    color: white;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+#footerleft {
+    margin-left: 1em;
+    font-size: 1.5rem;
+}
+
+.container-item7 {
+    align-self: flex-end;
+    margin-left: auto;
+    font-size: 1.5rem;
+}
+
+.container-item7 p {
+    margin-right: 1em;
+}
+
+#container-middle  {
+    text-align: center;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    margin-top: 7em;
+
+}
+
+.footname p {
+    font-size: 30px;
+    margin-top: 1vw;
+    margin-left: 2vw;
+}
+
+.footname a {
+
+}
+
+.footname a:hover {
+    font-weight: bold;
+}
+
+
 @media only screen and (max-width: 480px) {
 
     #profile {
@@ -351,11 +478,15 @@ table {
     }
 
     #personality {
-        top: 190em;
+        top: 120em;
+    }
+
+    #contact {
+        top: 150em;
     }
 
     .title h4 {
-       display: none;
+        display: none;
     }
 
 
@@ -375,8 +506,9 @@ table {
     }
 
     .container {
-
+        margin-top: 6em;
     }
+
 
     .container2 {
         margin-top: 0em;
@@ -435,8 +567,8 @@ table {
     }
 
     .positiontable {
-      flex: 0 1 100%;
-      align-self: flex-end;
+        flex: 0 1 100%;
+        align-self: flex-end;
     }
 
     .positiontable table {
@@ -444,7 +576,7 @@ table {
     }
 
     .workexp {
-      margin-top: 4em;
+        margin-top: 4em;
     }
 
     .personality {
@@ -456,4 +588,29 @@ table {
         max-height: 400px;
         margin-top: 1em;
     }
+
+    .container7 {
+        height: 3em;
+        padding-bottom: 1em;
+    }
+
+    .container-item7 {
+        margin-bottom: -0.5em;
+        font-size: 1rem;
+    }
+    .footname {
+        height: 9em;
+    }
+
+    #footerleft {
+        font-size: 1rem;
+    }
+
+    #container-middle {
+        /*margin-left: -2em;
+        font-size: 0.8rem;*/
+        display: none;
+    }
+
+
 }
