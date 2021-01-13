@@ -27,123 +27,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/CV2Final/CV2.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV2Final/CV2/assets.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/cvicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 1/pxlremake.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 1/pxlremake.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 2/list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 2/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 3/musicBlocks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 3/musicBlocks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/audia7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/badumtss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/bolcom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/deredactie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/fwmac.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/oneplus6t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/pearljam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/pxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/reddit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/sporza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/assets/stubru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/audioblocks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 4/audioblocks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/asiwyfa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/audia7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/badumtss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/bolcom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/deredactie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/fwmac.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/oneplus6t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/pearljam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/pxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/reddit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/sporza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/assets/stubru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/tables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/tables2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/Oefening 5/tables2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/audia7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/interior1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/mnm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/mustang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/mustang_auto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/nostalgie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/q-music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/radio1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/radio2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/road.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/smartphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/assets/stubru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/audi.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/audi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/audi.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/emulator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/fordmustang.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/fordmustang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/laagjes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/laagjes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/navigeren.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/navigeren.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/screen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/smartphone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/soundboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OefeningenOpnieuw/oplossingen positionering/soundboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 2/pizza.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 2/pizza.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/voorbeeldform/invulformulier.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/voorbeeldform/invulformulier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/familie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/huis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 14/Herhalingsoefening/Herhalingsoefening.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 14/Herhalingsoefening/Herhalingsoefening.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV2Final/CV2.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV2Final/CV2/CV2.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/CV2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV2Final/CV2/CV2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/CV2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/assets/bridge-1831929-wallhere.com.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 1 &amp; 2/HTML/Login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.css" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 1/Oefening 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 3/HTML/Tabellen/Oefening 1/Oefening 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/assets.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/assets/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/quote.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,6 +243,12 @@
       <workItem from="1609770912849" duration="3835000" />
       <workItem from="1609832756038" duration="4844000" />
       <workItem from="1609848281819" duration="8466000" />
+      <workItem from="1609928016159" duration="14736000" />
+      <workItem from="1610005651905" duration="5410000" />
+      <workItem from="1610100282286" duration="2756000" />
+      <workItem from="1610120863636" duration="394000" />
+      <workItem from="1610536153191" duration="758000" />
+      <workItem from="1610550679294" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>

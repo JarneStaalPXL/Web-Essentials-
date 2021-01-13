@@ -260,6 +260,10 @@ table {
     border: 1px solid black;
 }
 
+.mobileVersionTable {
+    display: none;
+}
+
 .workexp {
     text-align: center;
     font-size: 16px;
@@ -327,15 +331,17 @@ table {
 .personality {
     text-align: center;
     margin-top: 21em;
+
 }
 
 .personality h1 {
     font-size: 26px;
+    padding-top: 1em;
 }
 
 .personality img {
-    max-width: 800px;
-    max-height: 400px;
+    width: 44%;
+    height: auto;
     margin-top: 6vw;
 }
 
@@ -358,9 +364,11 @@ table {
     text-align: center;
     font-size: 16px;
     background-color: #ebebeb;
-    padding: 15px 32px;
+    padding: 15px 25px;
     margin-left: -1em;
     width: 11em;
+
+
 
 }
 
@@ -370,7 +378,7 @@ table {
     font-size: 16px;
     background-color: #c4c4c4;
     border: none;
-    padding: 15px 32px;
+    padding: 15px 23px;
     width: 11em;
 }
 
@@ -425,6 +433,28 @@ a, a:hover, a:focus, a:active {
     justify-content: flex-start;
 }
 
+.container8 {
+    display: flex;
+}
+
+#imgc {
+    width: auto;
+    height: 296px;
+    margin-top: 21em;
+    margin-left: 5em;
+    box-shadow: -2px 4px 15px 0px black;
+    border-radius: 1em;
+}
+
+#imgd {
+    width: auto;
+    margin-right: 4em;
+    height: 296px;
+    margin-top: 21em;
+    box-shadow: -2px 4px 15px 0px black;
+    border-radius: 1em;
+}
+
 #footerleft {
     margin-left: 1em;
     font-size: 1.5rem;
@@ -441,10 +471,8 @@ a, a:hover, a:focus, a:active {
 }
 
 #container-middle  {
-    text-align: center;
     font-size: 1.5rem;
-    display: flex;
-    justify-content: center;
+    margin-left: auto;
 }
 
 footer {
@@ -465,6 +493,8 @@ footer {
 .footname a:hover {
     font-weight: bold;
 }
+
+
 
 
 @media only screen and (max-width: 480px) {
@@ -571,16 +601,30 @@ footer {
         align-self: flex-end;
     }
 
+    table {
+        display: none;
+    }
+
     .positiontable table {
         font-size: 0.8rem;
+        width: 100%;
+        height: auto;
     }
 
     .workexp {
         margin-top: 4em;
     }
 
+    .mobileVersionTable {
+        display: block;
+        text-align: center;
+        background: #dceffe;
+        border: 1px solid black;
+        box-shadow: 0px 1px 6px 6px;
+    }
+
     .personality {
-        margin-top: 11em;
+        margin-top: -1em;
     }
 
     .personality img {
@@ -610,6 +654,28 @@ footer {
         /*margin-left: -2em;
         font-size: 0.8rem;*/
         display: none;
+    }
+
+    .container8 {
+        display: block;
+    }
+
+    #imgc {
+        height: auto;
+        margin-top: 9em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+
+    #imgd {
+        height: auto;
+        margin-top: 2em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
     }
 
 
