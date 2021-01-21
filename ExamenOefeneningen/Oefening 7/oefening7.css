@@ -1,0 +1,24 @@
+body {
+    background: #151c28;
+}
+
+
+#title {
+    text-align: center;
+    color: #ffe14f;
+}
+
+.buzzer {
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #ff7e1f 2px;
+    max-width: 500px;
+    border-radius: 14px;
+}
+
+
+.buzzer img {
+    height: 9em;
+    width: auto;
+    margin-right: 1em;
+}
