@@ -2,37 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca4c8b94-db6e-41b3-90dd-9388fa2eaa48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Final Countdown/countdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Countdown/profiel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PXL-Website-Remake/PXL-Website Remake.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PXL-Website-Remake/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audiA7/audiA7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audiA7/audiA7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fullsizeButtons/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fullsizeButtons/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laagjes/laagjes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laagjes/laagjes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigatiebalk/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigatiebalk/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartphoneEmulator/screen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartphoneEmulator/smartphone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartphoneEmulator/smartphone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabel/tabel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabel/tabel2/tabel2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabel/tabel2/tabel2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/asiwyfa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/audia7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/audia7_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/badumtss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/badumtss.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/badumtss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/bolcom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/buzzer.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/buzzer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/deredactie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/doorbell.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/doorbell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/fart.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/fart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/fwmac.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/interior1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/interior2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/oneplus6t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/pearljam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/pxl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/sporza.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/assets/stubru.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Countdown/final-Countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final Countdown/final-Countdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oefening 7/oefening7.css" beforeDir="false" afterPath="$PROJECT_DIR$/Oefening 7/oefening7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oefening 7/oefening7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Oefening 7/oefening7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +66,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611215501175</updated>
-      <workItem from="1611215504348" duration="12084000" />
+      <workItem from="1611215504348" duration="12986000" />
+      <workItem from="1611246549944" duration="128000" />
+      <workItem from="1611247005847" duration="7656000" />
+      <workItem from="1611300287315" duration="20084000" />
+      <workItem from="1611337475899" duration="4089000" />
+      <workItem from="1611383796922" duration="4303000" />
     </task>
     <servers />
   </component>
@@ -97,5 +88,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1,0 +1,39 @@
+body {
+    background: blue;
+    font-family: "Roboto", sans-serif;
+}
+
+table {
+    border: 5px solid darkred;
+}
+
+td {
+    padding: 3em;
+}
+
+tr:nth-child(even) td:nth-child(even) {
+    background: white;
+}
+
+tr:nth-child(odd) td:nth-child(odd) {
+    background: white;
+}
+
+tr:nth-child(odd) td:nth-child(even) {
+    background: black;
+}
+
+tr:nth-child(even) td:nth-child(odd) {
+    background: black;
+}
+
+
+.border2 {
+    border: solid white 2px;
+    color: white;
+    width: 15em;
+    height: 21em;
+    padding: 12px;
+    float: right;
+    background: black;
+}
