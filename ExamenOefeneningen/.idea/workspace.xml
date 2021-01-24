@@ -2,23 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca4c8b94-db6e-41b3-90dd-9388fa2eaa48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/audiA7/audiA7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audiA7/audiA7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fullsizeButtons/buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fullsizeButtons/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laagjes/laagjes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laagjes/laagjes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigatiebalk/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigatiebalk/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smartphoneEmulator/screen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smartphoneEmulator/smartphone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smartphoneEmulator/smartphone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabel/tabel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabel/tabel2/tabel2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabel/tabel2/tabel2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gewonnen/assets/cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gewonnen/assets/cookies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gewonnen/gewonnen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gewonnen/gewonnen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaSamenstellen.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaSamenstellen/pizza.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaSamenstellen/pizza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV2Final.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../CV2Final.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oefening 7/oefening7.css" beforeDir="false" afterPath="$PROJECT_DIR$/Oefening 7/oefening7.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oefening 7/oefening7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Oefening 7/oefening7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Countdown/countdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Countdown/final-Countdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Countdown/profiel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FordMustang/FordMustang.css" beforeDir="false" afterPath="$PROJECT_DIR$/FordMustang/FordMustang.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FordMustang/FordMustang.html" beforeDir="false" afterPath="$PROJECT_DIR$/FordMustang/FordMustang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PXL-Website-Remake/PXL-Website Remake.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PXL-Website-Remake/stijl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigatiebalk/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/navigatiebalk/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabel/tabel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabel/tabel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabel/tabel2/tabel2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabel/tabel2/tabel2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../School/Weken/Week 12/Oefening 1/gewonnen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../School/Weken/Week 12/Oefening 1/gewonnen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +79,11 @@
       <workItem from="1611247005847" duration="7656000" />
       <workItem from="1611300287315" duration="20084000" />
       <workItem from="1611337475899" duration="4089000" />
-      <workItem from="1611383796922" duration="4303000" />
+      <workItem from="1611383796922" duration="6398000" />
+      <workItem from="1611391747733" duration="646000" />
+      <workItem from="1611392487476" duration="6529000" />
+      <workItem from="1611402299183" duration="4781000" />
+      <workItem from="1611493169306" duration="1056000" />
     </task>
     <servers />
   </component>

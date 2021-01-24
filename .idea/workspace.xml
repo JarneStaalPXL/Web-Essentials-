@@ -27,17 +27,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/familie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/huis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 14/Herhalingsoefening/Herhalingsoefening.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 14/Herhalingsoefening/Herhalingsoefening.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/Gewonnen/assets/cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/Gewonnen/assets/cookies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/Gewonnen/gewonnen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/Gewonnen/gewonnen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen/pizza.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen/pizza.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/CV2.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/CV2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/CV2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/CV2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/assets.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/assets/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/assets/quote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV2Final.rar" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/Final Countdown/countdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/Final Countdown/final-Countdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/Final Countdown/profiel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/FordMustang/FordMustang.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/FordMustang/FordMustang.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/FordMustang/FordMustang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/FordMustang/FordMustang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/PXL-Website-Remake/PXL-Website Remake.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/PXL-Website-Remake/stijl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/navigatiebalk/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/navigatiebalk/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/tabel/tabel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/tabel/tabel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/tabel/tabel2/tabel2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/tabel/tabel2/tabel2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/gewonnen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +263,7 @@
       <workItem from="1610120863636" duration="394000" />
       <workItem from="1610536153191" duration="758000" />
       <workItem from="1610550679294" duration="618000" />
+      <workItem from="1611469296479" duration="8716000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>

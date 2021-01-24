@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PIZZACORNER HASSELT</title>
+    <link rel="stylesheet" href="pizza.css">
+</head>
+<body>
+<header>
+    <h1>PIZZACORNER HASSELT</h1>
+</header>
+<section>
+    <form action="mailto:jarne.staal9@gmail.com" method="post" enctype="text/plain">
+        <div>
+            <h1>Stel uw eigen pizza samen!</h1>
+            <strong><label id="marginName" for="first&lname">Voornaam en naam</label></strong><br>
+        </div>
+            <input name="Voornaam en naam" id="first&lname">
+
+        <div class="margin">
+            <strong><label >Type korst</label></strong><br>
+            <input type="radio" name="Type korst"> Klassiek
+            <input type="radio" name="Type korst"> Italiaans
+            <input type="radio" name="Type korst"> Amerikaans
+        </div>
+        <div class="margin">
+            <strong><label>Toppings</label></strong><br>
+            <input type="checkbox" name="">Hesp
+            <input type="checkbox" name="">Scampi
+            <input type="checkbox" name="">Ajuin
+            <br>
+            <input type="checkbox" name="">Champignons
+            <input type="checkbox" name="">Tonijn
+            <input type="checkbox" name="">Artisjok
+            <br>
+            <input type="checkbox" name="">Tomaat
+            <input type="checkbox" name="">Salami
+            <input type="checkbox" name="">Maïs
+            <br>
+            <input type="checkbox" name="">Kaas
+            <input type="checkbox" name="">Kip
+            <input type="checkbox" name="">Mozzarella
+            <br>
+            <input type="checkbox" name="">Paprika
+            <input type="checkbox" name="">Shoarma
+            <input type="checkbox" name="" disabled>Ananas
+        </div>
+        <div class="margin">
+            <strong><label>Opmerkingen</label></strong><br>
+            <input id="textbox" type="text">
+        </div>
+        <div class="margin">
+            <strong><label for="betaalwijze">Betaalwijze</label></strong>
+            <br>
+            <select name="betaalwijze" id="betaalwijze">
+                <option value="bancontact">Bancontact</option>
+                <option value="mastercard">Master Card</option>
+                <option value="maestro">Maestro</option>
+            </select>
+        </div>
+        <br>
+        <input id="bestel" type="submit" value="Bestel!">
+    </form>
+</section>
+</body>
+</html>

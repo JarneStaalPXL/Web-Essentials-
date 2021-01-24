@@ -1,0 +1,51 @@
+* {
+    font-family: Calibri, sans-serif;
+}
+
+
+body {
+    margin: 0;
+    background: lightgray;
+}
+
+header {
+    width: 100%;
+    background: black;
+    height: 5em;
+}
+
+header h1 {
+    background: white;
+    text-align: center;
+    width: 17em;
+    padding-top: 17px;
+    margin: 0px auto;
+    position: relative;
+    height: 2em;
+}
+
+section  {
+    padding: 40px;
+    background: white;
+    margin: 20px;
+}
+
+#marginName {
+    margin-top: 5px;
+}
+.margin {
+    margin-top: 1em;
+}
+
+#textbox {
+    width: 51em;
+    height: 10em;
+}
+
+#betaalwijze {
+    width: 17em;
+}
+
+#bestel {
+    width: 12em;
+}
