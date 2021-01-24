@@ -25,9 +25,52 @@ figure {
     float: right;
     margin: 40px 0;
 }
+
+figure img {
+    float: right;
+    width: 200px;
+}
 footer {
     clear: both;
     text-align:center;
     background-color: #ff0000;
     color: white;
+}
+
+@media screen and (max-width: 980px) {
+    .container {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    figure {
+        max-width: 15%;
+        padding: 20px;
+    }
+
+
+    .container, figure {
+        border: solid black 0px;
+    }
+
+    body{
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    footer {
+        display: none;
+    }
+
+    figure {
+        max-width: 25%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        float: none;
+    }
+
+
+
 }

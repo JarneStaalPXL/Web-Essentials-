@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <title>PIZZACORNER HASSELT</title>
@@ -18,36 +18,73 @@
             <input name="Voornaam en naam" id="first&lname">
 
         <div class="margin">
-            <strong><label >Type korst</label></strong><br>
-            <input type="radio" name="Type korst"> Klassiek
-            <input type="radio" name="Type korst"> Italiaans
-            <input type="radio" name="Type korst"> Amerikaans
+            <strong><label>Type korst</label></strong><br>
+
+            <input type="radio" id="klassiek" name="Klassiek">
+            <label for="klassiek">Klassiek</label>
+
+            <input type="radio" id="italiaans" name="Italiaans">
+            <label for="italiaans">Italiaans</label>
+
+            <input type="radio" id="amerikaans" name="Amerikaans">
+            <label for="amerikaans">Amerikaans</label>
         </div>
         <div class="margin">
             <strong><label>Toppings</label></strong><br>
-            <input type="checkbox" name="">Hesp
-            <input type="checkbox" name="">Scampi
-            <input type="checkbox" name="">Ajuin
-            <br>
-            <input type="checkbox" name="">Champignons
-            <input type="checkbox" name="">Tonijn
-            <input type="checkbox" name="">Artisjok
-            <br>
-            <input type="checkbox" name="">Tomaat
-            <input type="checkbox" name="">Salami
-            <input type="checkbox" name="">Maïs
-            <br>
-            <input type="checkbox" name="">Kaas
-            <input type="checkbox" name="">Kip
-            <input type="checkbox" name="">Mozzarella
-            <br>
-            <input type="checkbox" name="">Paprika
-            <input type="checkbox" name="">Shoarma
-            <input type="checkbox" name="" disabled>Ananas
+
+            <div id="first">
+                <input id="hesp" name="hesp" type="checkbox" >
+                <label for="hesp">Hesp</label>
+
+                <input id="scampi" name="scampi" type="checkbox" >
+                <label for="scampi">Scampi</label>
+
+                <input id="ajuin" name="ajuin" type="checkbox" >
+                <label for="ajuin">Ajuin</label>
+
+                <input id="champignons" name="champignons" type="checkbox" >
+                <label for="champignons">Champignons</label>
+
+                <input id="tonijn" name="tonijn" type="checkbox" >
+                <label for="tonijn">Tonijn</label>
+            </div>
+            <div id="second">
+                <input id="artisjok" name="artisjok" type="checkbox" >
+                <label for="artisjok">Artisjok</label>
+
+                <input id="tomaat" name="tomaat" type="checkbox" >
+                <label for="tomaat">Tomaat</label>
+
+                <input id="salami" name="salami" type="checkbox" >
+                <label for="salami">Salami</label>
+
+                <input id="maïs" name="maïs" type="checkbox" >
+                <label for="maïs">Maïs</label>
+
+                <input id="kaas" name="kaas" type="checkbox" >
+                <label for="kaas">Kaas</label>
+            </div>
+
+            <div id="third">
+                <input id="kip" name="kip" type="checkbox" >
+                <label for="kip">Kip</label>
+
+                <input id="mozzarella" name="mozzarella" type="checkbox" >
+                <label for="mozzarella">Mozzarella</label>
+
+                <input id="paprika" name="paprika" type="checkbox" >
+                <label for="paprika">Paprika</label>
+
+                <input id="shoarma" name="shoarma" type="checkbox" >
+                <label for="shoarma">Shoarma</label>
+
+                <input id="ananas" name="ananas" disabled  type="checkbox" >
+                <label for="ananas">Ananas</label>
+            </div>
         </div>
         <div class="margin">
-            <strong><label>Opmerkingen</label></strong><br>
-            <input id="textbox" type="text">
+            <strong><label for="textbox">Opmerkingen</label></strong><br>
+            <input id="textbox" name="textbox" type="text">
         </div>
         <div class="margin">
             <strong><label for="betaalwijze">Betaalwijze</label></strong>

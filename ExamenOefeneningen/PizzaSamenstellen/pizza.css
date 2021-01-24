@@ -49,3 +49,12 @@ section  {
 #bestel {
     width: 12em;
 }
+
+
+/*Containers */
+#first label, #second label, #third label {
+    margin-right: 6em;
+}
+
+
+
