@@ -1,0 +1,78 @@
+#topImage img {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+h1 {
+    padding-left: 54px;
+}
+
+.flex-container2 {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.flex-container2 input {
+    background: #c0f3f6;
+    margin-right: 1em;
+    width: 14em;
+    font-size: 1rem;
+    padding: 1em;
+    border-radius: 3em;
+}
+
+#one:focus {
+    background: lightgreen;
+}
+
+#two:focus {
+    background: lightcoral;
+}
+
+fieldset {
+    border: none;
+}
+
+.fieldsetPaddingShadow {
+    box-shadow: black 0px 1px 5px 1px;
+    padding: 20px;
+    background: #c0f3f6;
+    border-radius: 1em;
+}
+
+.fieldsetPaddingShadow input {
+    border-radius: 7px;
+    margin-top: 10px;
+    border: none;
+}
+
+.fieldsetPaddingShadow input:focus {
+    outline: none;
+    content:"€";
+}
+
+form {
+    padding-top: 1em;
+}
+
+#one:hover {
+    background: #e5f6f8;
+}
+
+#two:hover {
+    background: #e5f6f8;
+}
+
+label {
+    margin-right: 1em;
+}

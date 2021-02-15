@@ -1,0 +1,409 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    background: gray;
+}
+
+nav {
+    font-family: "Poppins";
+}
+
+nav {
+    background: black;
+    color: white;
+    padding: 17px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+    animation: 2s ease-out 0s 1 NavBarCharging;
+    border-bottom: 2px solid #05ff00;
+}
+
+#logo {
+    color: #05ff00;
+    animation: 2s ease-out 0s 1 LogoCharging;
+}
+
+#line {
+    box-shadow: #05ff00 1px 1px 1px 2px;
+    animation: 2s ease-out 0s 1 LineCharging;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav ol  {
+    display: flex;
+}
+
+
+nav ol li {
+    margin-right: 3em;
+
+}
+
+nav ol li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ol li a:hover {
+    color: #05ff00;
+    border-bottom: 2px solid #05ff00;
+    padding-bottom: 5px;
+}
+
+
+#imga {
+    width: auto;
+    height: 17em;
+}
+
+#section1 {
+    background: black;
+    width: 100%;
+    height: 66em;
+    position: absolute;
+    margin-top: -2em;
+
+}
+
+
+header{
+    position: relative;
+    margin-top: 5em;
+    width: 10em;
+    margin-bottom: 35px;;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+header img {
+    width: auto;
+    height: 7em;
+    padding-top: 10px;
+}
+
+.container {
+    display: flex;
+    margin-left: 5em;
+}
+
+.container1 {
+    width: 15em;
+}
+
+.container1 h1 {
+    color: white;
+    position: relative;
+    font-family: "Poppins";
+    width: 5em;
+    font-size: 70px;
+    margin-left: 1em;
+    top: 2em;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+
+.container2 {
+    display: flex;
+    animation: 15s ease-out 0s 1 slideInFromTop;
+    width: 44em;
+    height: 2em;
+    margin: auto;
+}
+
+.normalcharging, .fastcharging, .warpcharging {
+    margin-right: 4em;
+}
+
+.normalcharging p {
+    padding-top: 1em;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    top: -11px;
+    position: relative;
+    z-index: 1;
+    font-family: "Poppins";
+    animation: 50s ease-out 0s 1 slideInFromTop;
+    text-shadow: 0px 2px 5px black;
+}
+
+.borderbattery {
+    position: relative;
+    width: 250px;
+    height: 5em;
+    border: 2px solid white;
+    border-radius: 16px;
+    margin: auto;
+}
+
+.chargingBattery {
+    position: relative;
+    width: 250px;
+    height: 5em;
+    border-radius: 16px;
+    animation: 50s ease-out 0s 1 ChargingWidth;
+    background: #05ff00;
+    top: -82px;
+    left: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fastcharging p {
+    padding-top: 1em;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    top: -11px;
+    position: relative;
+    z-index: 1;
+    font-family: "Poppins";
+    animation: 35s ease-out 0s 1 slideInFromTop;
+    text-shadow: 0px 2px 5px black;
+}
+
+
+.borderbattery2 {
+    position: relative;
+    width: 250px;
+    height: 5em;
+    border: 2px solid white;
+    border-radius: 16px;
+    margin: auto;
+}
+
+.chargingBattery2 {
+    position: relative;
+    width: 250px;
+    height: 5em;
+    border-radius: 16px;
+    animation: 35s ease-out 0s 1 ChargingWidth;
+    background: #05ff00;
+    top: -82px;
+    left: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+.warpcharging p {
+    padding-top: 1em;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    top: -11px;
+    position: relative;
+    z-index: 1;
+    font-family: "Poppins";
+    animation: 15s ease-out 0s 1 slideInFromTop;
+    text-shadow: 0px 2px 5px black;
+}
+
+
+.borderbattery3 {
+    position: relative;
+    width: 250px;
+    height: 5em;
+    border: 2px solid white;
+    border-radius: 16px;
+    margin: auto;
+}
+
+.chargingBattery3 {
+    position: relative;
+    width: 250px;
+    height: 5em;
+    border-radius: 16px;
+    animation: 15s ease-out 0s 1 ChargingWidth;
+    background: #05ff00;
+    top: -82px;
+    left: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-800%);
+        opacity: 0%;
+    }
+    90% {
+        opacity: 0%;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 100%;
+    }
+}
+
+@keyframes NavBarCharging {
+    0% {
+        border-bottom: 2px solid red;
+    }
+    100% {
+        border-bottom: 2px solid #05ff00;
+    }
+}
+
+@keyframes LogoCharging {
+    0% {
+        color: red;
+    }
+    100% {
+        color: #05ff00;
+    }
+}
+
+@keyframes LineCharging {
+    0% {
+        box-shadow: red 1px 1px 1px 2px;
+    }
+    100% {
+        box-shadow: #05ff00 1px 1px 1px 2px;
+    }
+}
+
+
+
+
+@keyframes ChargingWidth {
+    0% {
+        width: 35px;
+        background: red;
+    }
+    100% {
+        width: 250px;
+        background: #05ff00;
+    }
+}
+
+
+@keyframes slideInFromTop {
+    0% {
+        opacity: 0%;
+    }
+    5% {
+        opacity: 0%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 700px) {
+    #logo, #line {
+        display: none;
+    }
+
+    nav ol {
+        justify-content: space-evenly;
+        margin-left: -2em;
+    }
+
+    nav ol li {
+        margin-right: 0;
+    }
+
+    header {
+        width: 13em;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'zef_raveregular';
+    src: url('/fonts/zef_rave-webfont.woff2') format('woff2'),
+    url('fonts/zef_rave-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+

@@ -1,0 +1,11 @@
+.block {
+    padding: 20px;
+    background: #c0f3f6;
+    border-radius: 2em;
+    text-align: center;
+}
+
+img {
+    display: flex;
+    margin: auto;
+}
