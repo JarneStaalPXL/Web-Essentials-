@@ -30,46 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/battery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/batteryFavIcon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/batteryIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/batterycharging.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/generator_config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/specimen_files/grid_12-825-55-15.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/specimen_files/specimen_stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/zef_rave-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/zef_rave-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/zef_rave-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/JSCOACHINGFORM/FORM.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/JSCOACHINGFORM/FORM.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/JSCOACHINGFORM/assets/lifecoachLogo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/JSCOACHINGMAIL/JSCOACHINGMAIL.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/JSCOACHINGMAIL/JSCOACINGMAIL.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/banner.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/facebook.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/instagram.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/jade2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/jade2maarpng.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/lifecoachLogo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/linkedIn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/welcome.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/lifecoach-PF2B3Y6V.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/lifecoach.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/lifecoach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen/pizza.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen/pizza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/float/float.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/float/float.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/float/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/float/float.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeProjects/Webshop/Home/Webshop.css" beforeDir="false" afterPath="$PROJECT_DIR$/HomeProjects/Webshop/Home/Webshop.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +42,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Semester 2/Web_Advanced" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -100,7 +62,7 @@
     <option name="autoscrollToSource" value="true" />
   </component>
   <component name="ProjectId" id="1hs1b8lWXWL5fBjPGz8QwCf2gum" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -113,7 +75,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeProjects/JSCOACHINGFORM/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Semester 2/Web_Advanced" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -329,6 +291,9 @@
       <workItem from="1612622705803" duration="18000" />
       <workItem from="1612688195372" duration="679000" />
       <workItem from="1613399269108" duration="114000" />
+      <workItem from="1613401178015" duration="279000" />
+      <workItem from="1613401573389" duration="24000" />
+      <workItem from="1613402325687" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="School Initial Commit">
       <created>1604044802278</created>
