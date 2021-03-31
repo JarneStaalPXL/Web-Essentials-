@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+    background: black;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    padding: 20px;
+}
+
+
+header {
+    background: #d53a3a;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+    animation: 500ms ease-out 0s 1 slideInFromLeft;
+}
+
+.r1, .r2, .r3, .r4 {
+    font-size: 2rem;
+    padding: 3em 2em;
+    margin: auto;
+    text-align: center;
+    animation: 3s ease-out 0s 1 slideInFromLeft;
+}
+
+.lastsection {
+    animation: 6s ease-out 0s 1 slideInFromLeft;
+}
+
+.dflex {
+    display: flex;
+}
+
+#sectionone i {
+    font-size: 10em;
+}
+
+
+section h2 {
+    font-size: 70px;
+}
+
+h3 {
+    font-size: 4rem;
+    font-style: italic;
+}
+
+#section1, #section2, #section3, #section4 {
+    display: none;
+}
+
+.lastsection {
+    text-align: center;
+    padding-bottom: 7em;
+    font-size: 2rem;
+}
+
+
+
+
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateY(-800%);
+        opacity: 0%;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 100%;
+    }
+}
+
+@keyframes slideInFromTop {
+    0% {
+        opacity: 0%;
+    }
+    50% {
+        opacity: 50%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
