@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button{
+    background: green;
+    width: 10vw;
+    height: 10vw;
+    margin: 6vw;
+}
+
+
+body {
+    margin-bottom:50px;
+}
+
+#footer {
+    position: fixed;
+    height: 50px;
+    background-color: #000000;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+#footer p {
+    color: white;
+    text-align: center;
+}

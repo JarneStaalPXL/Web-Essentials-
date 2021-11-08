@@ -1,0 +1,48 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: lightpink;
+}
+header {
+    padding: 30px 12px;
+}
+
+.navbar {
+    margin-left: -3vw;
+}
+
+.navbar li a:hover {
+    background-color: #8d145c;
+}
+
+nav{
+
+    width: 100%;
+    background-color: #000000;
+}
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ff1493;
+
+}
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    Padding: 25px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #006669;
+}
+
+nav ul li img {
+    height: 45px;
+    margin: 12px 20px;
+}

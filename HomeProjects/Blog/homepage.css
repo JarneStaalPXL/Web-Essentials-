@@ -43,7 +43,6 @@ nav ol  {
 
 nav ol li {
     margin-right: 3em;
-
 }
 
 nav ol li a {
@@ -53,7 +52,6 @@ nav ol li a {
 
 nav ol li a:hover {
     color: #05ff00;
-    border-bottom: 2px solid #05ff00;
     padding-bottom: 5px;
 }
 
@@ -205,29 +203,43 @@ header img {
     left: 1px;
 }
 
+@media only screen and (max-width: 480px){
+    header {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 
+
+}
 
 @media only screen and (max-width: 1000px) {
     #logo, #line {
         display: none;
     }
 
+    nav ol li {
+        margin-right: 2em;
+    }
+
+
     nav ol {
         justify-content: space-evenly;
         margin-left: -2em;
     }
 
-    nav ol li {
-        margin-right: 0;
-    }
 
     .container2 {
         display: block;
+        width: 100%;
     }
 
     .chargingBattery, .chargingBattery2, .chargingBattery3 {
         left: 0px;
         margin: auto;
+    }
+
+    .normalcharging, .fastcharging, .warpcharging {
+        margin-right: 0;
     }
 }
 
@@ -236,9 +248,11 @@ header img {
         display: block;
     }
 
+
     .container1{
         width: 100%;
     }
+
 
     .container1 h1 {
         width: 100%;
@@ -247,16 +261,12 @@ header img {
     }
 
     .container2 {
-        width: 57em;
-        padding-top: 13em;
+        justify-content: center;
+        padding-top: 8em;
     }
 }
 
-@media only screen and (min-width: 1401px){
-    .container1 h1 {
 
-    }
-}
 
 
 

@@ -1,0 +1,32 @@
+#imga {
+    float: right;
+    width: 24em;
+    padding: 48px;
+    height: auto;
+}
+
+#pa {
+
+}
+
+#imgb {
+    float: left;
+    width: 24em;
+    padding: 48px;
+    height: auto;
+}
+
+#pb {
+
+}
+
+#imgc {
+    float: contour;
+    width: 24em;
+    padding: 48px;
+    height: auto;
+}
+
+#pc {
+
+}

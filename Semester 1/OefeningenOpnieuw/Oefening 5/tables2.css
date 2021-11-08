@@ -1,0 +1,16 @@
+body {
+    background: gray;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    background: white;
+}
+
+td {
+    padding-left: 1em;
+    padding-right: 1em;
+}

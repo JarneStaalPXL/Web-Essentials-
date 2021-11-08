@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="updated">
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/battery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/batteryFavIcon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/batteryIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/assets/batterycharging.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/generator_config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/specimen_files/grid_12-825-55-15.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/specimen_files/specimen_stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/zef_rave-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/zef_rave-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Blog/fonts/zef_rave-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/facebook.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/instagram.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/jade2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/jade2maarpng.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/lifecoachLogo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/assets/welcome.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/lifecoach.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeProjects/Jade/lifecoach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Weken/Week 12/Oefening 1/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV2Final/CV2/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/CV2Final/CV2/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen/pizza.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/PizzaSamenstellen/pizza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/float/float.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/float/float.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenOefeneningen/float/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenOefeneningen/float/float.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeProjects/Webshop/Home/Webshop.css" beforeDir="false" afterPath="$PROJECT_DIR$/HomeProjects/Webshop/Home/Webshop.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
+  <component name="ProjectId" id="1hs1b8lWXWL5fBjPGz8QwCf2gum" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeProjects/Blog/homepage.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jarne\OneDrive - PXL\PXL HTML\HomeProjects\ProjectFoto's\assets" />
+      <recent name="C:\Users\jarne\OneDrive - PXL\PXL HTML\CV\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.lifecoach.html">
+    <configuration name="Live Edit" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="lifecoach.html" type="JavascriptDebugType" uri="http://localhost:63342/lifecoach.html/HomeProjects/Jade/lifecoach.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Live Edit" />
+      <item itemvalue="JavaScript Debug.lifecoach.html" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08e0934-48fe-4eee-8a1c-93c14cd0d131" name="Default Changelist" comment="" />
+      <created>1600785056635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600785056635</updated>
+      <workItem from="1600785058090" duration="3416000" />
+      <workItem from="1600792591944" duration="939000" />
+      <workItem from="1600793681439" duration="2572000" />
+      <workItem from="1600863269406" duration="526000" />
+      <workItem from="1600863830917" duration="358000" />
+      <workItem from="1601111099161" duration="460000" />
+      <workItem from="1601111577846" duration="259000" />
+      <workItem from="1601189034840" duration="854000" />
+      <workItem from="1601293120676" duration="12018000" />
+      <workItem from="1601307150776" duration="1199000" />
+      <workItem from="1601311509161" duration="267000" />
+      <workItem from="1601564006393" duration="4377000" />
+      <workItem from="1601621108991" duration="2104000" />
+      <workItem from="1601623769983" duration="281000" />
+      <workItem from="1601624069448" duration="81000" />
+      <workItem from="1601624200282" duration="402000" />
+      <workItem from="1601624626151" duration="3471000" />
+      <workItem from="1601917462785" duration="958000" />
+      <workItem from="1601918453875" duration="1540000" />
+      <workItem from="1601920023761" duration="2925000" />
+      <workItem from="1602079449349" duration="35000" />
+      <workItem from="1602079541270" duration="375000" />
+      <workItem from="1602080143087" duration="146000" />
+      <workItem from="1602168613839" duration="5695000" />
+      <workItem from="1602261924532" duration="781000" />
+      <workItem from="1602308420472" duration="8572000" />
+      <workItem from="1602318204131" duration="174000" />
+      <workItem from="1602318726512" duration="11680000" />
+      <workItem from="1602332438438" duration="1288000" />
+      <workItem from="1602337765277" duration="8653000" />
+      <workItem from="1602495172056" duration="96000" />
+      <workItem from="1602498044248" duration="362000" />
+      <workItem from="1602521876448" duration="20000" />
+      <workItem from="1602521973668" duration="3076000" />
+      <workItem from="1602567238832" duration="5572000" />
+      <workItem from="1602572866600" duration="3412000" />
+      <workItem from="1602659921647" duration="2230000" />
+      <workItem from="1602663338551" duration="2786000" />
+      <workItem from="1602666182169" duration="1788000" />
+      <workItem from="1602696538034" duration="10044000" />
+      <workItem from="1602792857188" duration="66000" />
+      <workItem from="1602831658801" duration="5644000" />
+      <workItem from="1602943402763" duration="83000" />
+      <workItem from="1602944770223" duration="1836000" />
+      <workItem from="1602946664690" duration="7000" />
+      <workItem from="1602947000949" duration="5289000" />
+      <workItem from="1603031178537" duration="6626000" />
+      <workItem from="1603088646191" duration="2123000" />
+      <workItem from="1603174733108" duration="1127000" />
+      <workItem from="1603175887451" duration="1168000" />
+      <workItem from="1603177086804" duration="2568000" />
+      <workItem from="1603470082909" duration="365000" />
+      <workItem from="1603470522363" duration="10047000" />
+      <workItem from="1603532666395" duration="2496000" />
+      <workItem from="1603537187133" duration="6263000" />
+      <workItem from="1603549816061" duration="3000" />
+      <workItem from="1603618931463" duration="7818000" />
+      <workItem from="1603634244800" duration="3636000" />
+      <workItem from="1603639538176" duration="2745000" />
+      <workItem from="1603866987441" duration="3287000" />
+      <workItem from="1603901709651" duration="698000" />
+      <workItem from="1604043517502" duration="956000" />
+      <workItem from="1604044499953" duration="211000" />
+      <workItem from="1604044736592" duration="3256000" />
+      <workItem from="1604146078732" duration="465000" />
+      <workItem from="1604146554641" duration="665000" />
+      <workItem from="1604928601594" duration="1156000" />
+      <workItem from="1604931583805" duration="96000" />
+      <workItem from="1604931992627" duration="9420000" />
+      <workItem from="1604991499232" duration="8437000" />
+      <workItem from="1605001572070" duration="771000" />
+      <workItem from="1605071226808" duration="4203000" />
+      <workItem from="1605115689952" duration="3000" />
+      <workItem from="1605118024236" duration="5030000" />
+      <workItem from="1605183987617" duration="1702000" />
+      <workItem from="1605187153193" duration="3110000" />
+      <workItem from="1605194456371" duration="10708000" />
+      <workItem from="1605247959145" duration="3403000" />
+      <workItem from="1605292667134" duration="1339000" />
+      <workItem from="1605362368470" duration="437000" />
+      <workItem from="1605365613107" duration="343000" />
+      <workItem from="1605366715689" duration="9322000" />
+      <workItem from="1605419285301" duration="8478000" />
+      <workItem from="1605431218117" duration="6541000" />
+      <workItem from="1605438525276" duration="18768000" />
+      <workItem from="1605512817204" duration="12284000" />
+      <workItem from="1605637712645" duration="5612000" />
+      <workItem from="1605681626775" duration="1486000" />
+      <workItem from="1605689466682" duration="5433000" />
+      <workItem from="1605766353859" duration="7664000" />
+      <workItem from="1605784064560" duration="1671000" />
+      <workItem from="1605800852257" duration="1202000" />
+      <workItem from="1605861108387" duration="2103000" />
+      <workItem from="1605864469247" duration="599000" />
+      <workItem from="1606142424790" duration="2498000" />
+      <workItem from="1606201692162" duration="2667000" />
+      <workItem from="1606204659072" duration="3101000" />
+      <workItem from="1606319070796" duration="3285000" />
+      <workItem from="1606488004215" duration="35000" />
+      <workItem from="1606488087083" duration="1287000" />
+      <workItem from="1606489421361" duration="2436000" />
+      <workItem from="1606543089291" duration="3860000" />
+      <workItem from="1606659950212" duration="18000" />
+      <workItem from="1606660001730" duration="333000" />
+      <workItem from="1606660344814" duration="423000" />
+      <workItem from="1606660783263" duration="4982000" />
+      <workItem from="1606898747055" duration="518000" />
+      <workItem from="1606899397928" duration="2875000" />
+      <workItem from="1607067824101" duration="6420000" />
+      <workItem from="1607414601722" duration="508000" />
+      <workItem from="1607415153047" duration="704000" />
+      <workItem from="1607843766850" duration="563000" />
+      <workItem from="1607844699770" duration="5610000" />
+      <workItem from="1607868941661" duration="3774000" />
+      <workItem from="1607925755444" duration="1244000" />
+      <workItem from="1607950800419" duration="2111000" />
+      <workItem from="1608107011240" duration="2521000" />
+      <workItem from="1608217756205" duration="83000" />
+      <workItem from="1608278127473" duration="217000" />
+      <workItem from="1608278644133" duration="733000" />
+      <workItem from="1608279402014" duration="4599000" />
+      <workItem from="1608544092536" duration="5190000" />
+      <workItem from="1608559703147" duration="8808000" />
+      <workItem from="1608642204498" duration="14797000" />
+      <workItem from="1608709316909" duration="11326000" />
+      <workItem from="1608728381448" duration="4576000" />
+      <workItem from="1608733007596" duration="704000" />
+      <workItem from="1608745746491" duration="592000" />
+      <workItem from="1608749739152" duration="2892000" />
+      <workItem from="1608794736256" duration="10482000" />
+      <workItem from="1608970103200" duration="7732000" />
+      <workItem from="1608980469520" duration="538000" />
+      <workItem from="1609057004988" duration="7678000" />
+      <workItem from="1609423020658" duration="19000" />
+      <workItem from="1609423071766" duration="5557000" />
+      <workItem from="1609580816132" duration="9210000" />
+      <workItem from="1609608555415" duration="251000" />
+      <workItem from="1609608877034" duration="494000" />
+      <workItem from="1609661864292" duration="360000" />
+      <workItem from="1609662249198" duration="458000" />
+      <workItem from="1609662723904" duration="4585000" />
+      <workItem from="1609770912849" duration="3835000" />
+      <workItem from="1609832756038" duration="4844000" />
+      <workItem from="1609848281819" duration="8466000" />
+      <workItem from="1609928016159" duration="14736000" />
+      <workItem from="1610005651905" duration="5410000" />
+      <workItem from="1610100282286" duration="2756000" />
+      <workItem from="1610120863636" duration="394000" />
+      <workItem from="1610536153191" duration="758000" />
+      <workItem from="1610550679294" duration="618000" />
+      <workItem from="1611469296479" duration="8716000" />
+      <workItem from="1611559598030" duration="3255000" />
+      <workItem from="1611570432021" duration="84000" />
+      <workItem from="1611577820644" duration="16000" />
+      <workItem from="1611598961093" duration="433000" />
+      <workItem from="1611599405540" duration="349000" />
+      <workItem from="1611599797384" duration="4905000" />
+      <workItem from="1611605519161" duration="3853000" />
+      <workItem from="1611689889121" duration="12000" />
+      <workItem from="1611689928498" duration="1065000" />
+      <workItem from="1611751365921" duration="69000" />
+      <workItem from="1611751454660" duration="11584000" />
+      <workItem from="1611820180964" duration="1174000" />
+      <workItem from="1611834856249" duration="4757000" />
+      <workItem from="1611839668565" duration="10371000" />
+      <workItem from="1611904690183" duration="4464000" />
+      <workItem from="1611935616907" duration="566000" />
+      <workItem from="1612100125267" duration="2000" />
+      <workItem from="1612121670763" duration="68000" />
+      <workItem from="1612121770493" duration="5839000" />
+      <workItem from="1612200449442" duration="8765000" />
+      <workItem from="1612291163222" duration="382000" />
+      <workItem from="1612448073283" duration="1000" />
+      <workItem from="1612517778639" duration="947000" />
+    </task>
+    <task id="LOCAL-00001" summary="School Initial Commit">
+      <created>1604044802278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604044802278</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added gitignore">
+      <created>1604045377576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604045377576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test paragraph removed">
+      <created>1604045595206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604045595206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Heading Test Added">
+      <created>1604046101996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604046101996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Heading Test Removed">
+      <created>1604046231169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604046231169</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Comments">
+      <created>1604047217598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604047217598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated">
+      <created>1604934861921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604934861921</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated">
+      <created>1605770114551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605770114551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated">
+      <created>1606661705053</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606661705053</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="School Initial Commit" />
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value="Test paragraph removed" />
+    <MESSAGE value="Heading Test Added" />
+    <MESSAGE value="Heading Test Removed" />
+    <MESSAGE value="Added Comments" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homepage_html$homepage_html.dat" NAME="homepage.html Coverage Results" MODIFIED="1611845835352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

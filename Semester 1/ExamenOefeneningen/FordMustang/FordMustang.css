@@ -1,0 +1,114 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    margin: 0;
+}
+
+
+#bg {
+    position: fixed;
+    width: 100%;
+}
+
+#spaceout {
+    height: 15px;
+}
+
+nav {
+    position: relative;
+    background: white;
+    width: 1200px;
+    box-shadow: 0px -4px 25px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+nav a:hover{
+    background: black;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+}
+
+
+nav ul li  {
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 26px;
+}
+
+
+nav ul li img {
+    width: 70px;
+    height: auto;
+    padding-top: 3px;
+    padding-right: 17px;
+}
+
+nav #active, #active a {
+    background: black;
+    color: white;
+}
+
+
+header {
+    margin-top: 1em;
+    display: flex;
+    position: relative;
+    background: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(assets/mustang_auto.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+header h1 {
+    padding: 8rem 1rem;
+    font-size: 50px;
+    text-shadow: 2px 2px #f00;
+}
+
+section {
+    position: relative;
+    background: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+}
+
+section ul {
+    margin-left: 2em;
+}
+
+section ul li {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+section h1 {
+    padding: 25px;
+    font-size: 35px;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    margin-top: 1em;
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1em;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}

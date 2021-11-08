@@ -1,0 +1,27 @@
+{
+  "name": "clients_add_remove",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@types/node": "^15.12.4",
+    "bootstrap": "^5.0.2",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "vue": "^3.1.2",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}

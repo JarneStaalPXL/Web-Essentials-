@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Invulformulier</title>
+    <link rel="stylesheet" href="invulformulier.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<header>
+    <h1>Invulformulier</h1>
+</header>
+<form action="mailto:12001055@student.pxl.be?subject=Antwoord" method="post" enctype="text/plain"></form>
+<fieldset>
+    <legend>Persoonlijke gegevens</legend>
+    <label for="voornaam">Voornaam</label>
+    <input type="text" name="Voornaam" id="voornaam" required>
+    <label for="achternaam">Achternaam</label>
+    <input type="text" name="Achternaam" id="achternaam" required><br>
+    <label for="geboortedatum">Geboortedatum</label>
+    <input type="date" name="Geboortedatum" id="geboortedatum" required><br>
+    <label for="mailadres">Mailadres</label>
+    <input type="email" name="Mailadres" id="mailadres" required><br>
+</fieldset>
+
+<fieldset>
+    <legend>Adresgegevens</legend>
+    <label for="straatnaam">Straatnaam</label>
+    <input type="text" name="Straatnaam" id="straatnaam" required>
+    <label for="huisbusnummer">Huis- en busnummer</label>
+    <input type="text" name="Huis-busnummer" id="huisbusnummer" required><br>
+    <label for="gemeente">Gemeente</label>
+    <input list="gemeentelijst" name="Gemeente" id="gemeente" required>
+    <datalist id="gemeentelijst">
+        <option label="3500" value="Hasselt"></option>
+        <option label="3600" value="Genk"></option>
+        <option label="3700" value="Sint-truiden"></option>
+    </datalist>
+    <label for="postcode">Postcode</label>
+    <input type="text" maxlength="4" name="Postcode" id="postcode" required><br>
+    <label for="land">Land</label>
+    <select name="Land" id="land">
+        <option>Nederland</option>
+        <option selected>Belgie</option>
+        <option>Luxemburg</option>
+    </select>
+
+</fieldset>
+
+<fieldset>
+    <legend>Extra informatie</legend>
+    <label for="opmerkingen">Opmerkingen en vragen</label><br>
+    <textarea name="Opmerkingen" id="opmerkingen"></textarea>
+</fieldset>
+
+<fieldset>
+    <legend>Wissen</legend>
+    <input type="submit" value="Gegevens verzenden">
+    <input type="reset" value="Gegevens wissen">
+</fieldset>
+
+</body>
+</html>
